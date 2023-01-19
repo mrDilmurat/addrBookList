@@ -58,7 +58,7 @@ button{
     z-index: 5;
 }
 .modal-head{
-    background-color: var(--orange-color);
+    background-color: #3f43fa;
     padding: 1.2rem 2.4rem;
     font-size: 1.5rem;
     color: #fff;
@@ -141,7 +141,7 @@ button{
 #save-btn, #update-btn{
     -webkit-box-shadow: 0 2px 0 0 #bd5305;
             box-shadow: 0 2px 0 0 #bd5305;
-    background-color: var(--orange-color);
+    background-color: #3f43fa;
     margin-right: 0.6rem;
 }
 #save-btn:hover, #update-btn:hover{
@@ -187,7 +187,7 @@ button{
     font-size: 2.2rem;
 }
 .addr-book-head i{
-    color: var(--orange-color);
+    color: #3f43fa;
     margin-right: 1rem;
 }
 .addr-book-top{
@@ -200,7 +200,7 @@ button{
     -webkit-transition: all 200ms ease;
     -o-transition: all 200ms ease;
     transition: all 200ms ease;
-    background-color: var(--orange-color);
+    background-color: #3f43fa;
     -webkit-box-shadow: 0 2px 0 0 #bd5305;
             box-shadow: 0 2px 0 0 #bd5305;
 }
